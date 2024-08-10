@@ -1,5 +1,5 @@
 import json
-with open('assets/project_data.json') as f:
+with open('assets/project_data.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 projects = {}
