@@ -1,6 +1,6 @@
 # 42 Level Calculator
 
-[![GitHub license](https://img.shields.io/github/license/callmezaki/42_level_calculator)](https://github.com/callmezaki/42_level_calculator/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/callmezaki/42_level_calculator)](https://github.com/callmezaki/42_level_calculator/blob/main/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/callmezaki/42_level_calculator)](https://github.com/callmezaki/42_level_calculator/issues)
 [![GitHub stars](https://img.shields.io/github/stars/callmezaki/42_level_calculator)](https://github.com/callmezaki/42_level_calculator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/callmezaki/42_level_calculator)](https://github.com/callmezaki/42_level_calculator/network)
@@ -76,7 +76,7 @@ Please make sure your code adheres to the project's coding standards and is well
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
