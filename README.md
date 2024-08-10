@@ -19,7 +19,6 @@
 
 The **42 Level Calculator** is a Python-based application that allows students to calculate and visualize their level progression at the 42 coding school. The application provides a user-friendly interface built with Tkinter and CustomTkinter, making it easy to input project results and instantly see the corresponding level.
 
-![app](https://github.com/callmezaki/42_level_calculator/blob/main/assets/1.png?raw=true)
 ![app](https://github.com/callmezaki/42_level_calculator/blob/main/assets/2.png?raw=true)
 ## Features
 
