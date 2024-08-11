@@ -51,7 +51,7 @@ To run the 42 Level Calculator locally, follow these steps:
     Start the application by running the main script:
 
     ```bash
-    python3 main.py
+    python3 app.py
     ```
 
 ## Usage
